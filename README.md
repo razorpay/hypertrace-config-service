@@ -1,4 +1,4 @@
-## Config Service
+## Config Service.
 Service for storing and serving configurations across multiple services and contexts.
 
 ## Description
